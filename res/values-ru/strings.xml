@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Игра NIM</string>
+    <string name="desc_game_logo">GameLogo</string>
+    <string name="de">GameLogo</string>
+    <string name="difficulty_level">Уровень сложности</string>
+    <string name="first_move">Первый ход</string>
+    <string name="start_game">Начать игру</string>
+    <string name="title_activity_game">Игра NIM</string>
+    <string name="end_turn">Завершить ход</string>
+    <string name="computer_turn">Ход компьютера</string>
+	<string name="player_turn">Ваш ход</string>
+	<string name="rules_tip">Who takes the last Star - WINS</string>
+	<string name="rules_misere_tip">Who takes the last Star - LOSES</string>
+	<string name="game_over">Конец игры</string>
+	<string name="is_the_winner">победитель!</string>
+	<string name="play_again">Играть снова</string>
+	<string name="exit">Выход</string>
+	<string name="misere">Мизер</string>
+					
+    <string-array name="difficulty">
+        <item>Легко</item>
+        <item>Сложно</item>
+        <item>Очень сложно</item>
+    </string-array>
+
+    <string-array name="firstmove">
+        <item>Игрок</item>
+        <item>Компьютер</item>
+    </string-array>    
+
+</resources>

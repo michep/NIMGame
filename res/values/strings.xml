@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NIM Game</string>
+    <string name="desc_game_logo">GameLogo</string>
+    <string name="de">GameLogo</string>
+    <string name="difficulty_level">Difficulty Level</string>
+    <string name="first_move">First Move</string>
+    <string name="start_game">Start Game</string>
+    <string name="title_activity_game">NIM Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="end_turn">End Turn</string>
+    <string name="computer_turn">Computer turn</string>
+	<string name="player_turn">Your turn</string>
+	<string name="rules_tip">Who takes the last Star - WINS</string>
+	<string name="rules_misere_tip">Who takes the last Star - LOSES</string>
+	<string name="game_over">Game Over</string>
+	<string name="is_the_winner">is the winner!</string>
+	<string name="play_again">Play again</string>
+	<string name="exit">Exit</string>
+	<string name="misere">Misere</string>
+					
+    <string-array name="difficulty">
+        <item>Easy</item>
+        <item>Hard</item>
+        <item>Insane</item>
+    </string-array>
+
+    <string-array name="firstmove">
+        <item>Player</item>
+        <item>Computer</item>
+    </string-array>    
+
+</resources>
